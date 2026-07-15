@@ -29,21 +29,9 @@ Perfect for developers, power users, and enthusiasts who want a lightweight, key
 
 ### Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/chnafmohammed05-lang/Hyprbuntu.git
-cd Hyprbuntu
-
-# Run the installation script
-./install.sh
-```
 
 ## 📋 Requirements
-
-- Git
-- Build essentials
-- Vulkan libraries
-- Ubuntu base system
+qbittorent for converting the torrent file into iso file
 
 ## ⚙️ Configuration
 
@@ -75,10 +63,6 @@ Contributions are welcome! Please feel free to:
 2. Create a feature branch
 3. Submit a pull request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 💬 Support
 
 For issues, questions, or suggestions:
@@ -87,10 +71,7 @@ For issues, questions, or suggestions:
 - Review Hyprland community resources
 
 ## 🙏 Acknowledgments
-
-- The Hyprland development team
-- Ubuntu community and contributors
-- All contributors to this project
+- Developped by me myself with love and carinness (also maybe calamares dont work but you can use it as a live system untill i fix it )
 
 ---
 
